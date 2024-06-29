@@ -41,53 +41,56 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyBYi2LJXoyymlgrSWycjFBvx3lHECmsX78',
-    appId: '1:948138452070:web:94b463a1c468117cd739a7',
-    messagingSenderId: '948138452070',
-    projectId: 'seeme-db',
-    authDomain: 'seeme-db.firebaseapp.com',
-    databaseURL: 'https://seeme-db-default-rtdb.firebaseio.com',
-    storageBucket: 'seeme-db.appspot.com',
-    measurementId: 'G-35J5RBGFN8',
+    apiKey: 'AIzaSyAxPd1SRCDZSi8I8vDl-t5CIrUOTVBvbVM',
+    appId: '1:431747585555:web:e2213e6231feecf2f9d1e6',
+    messagingSenderId: '431747585555',
+    projectId: 'seeme-689a1',
+    authDomain: 'seeme-689a1.firebaseapp.com',
+    databaseURL: 'https://seeme-689a1-default-rtdb.firebaseio.com',
+    storageBucket: 'seeme-689a1.appspot.com',
+    measurementId: 'G-0DR1FT63VV',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyCfbVMGUngUIW_UNnb-4XmWueakYXotwN0',
-    appId: '1:948138452070:android:cb966063a6ada2f3d739a7',
-    messagingSenderId: '948138452070',
-    projectId: 'seeme-db',
-    databaseURL: 'https://seeme-db-default-rtdb.firebaseio.com',
-    storageBucket: 'seeme-db.appspot.com',
+    apiKey: 'AIzaSyA2JsphEm0gTJAsQOFHDoe-S1XlC0UmQRg',
+    appId: '1:431747585555:android:00087a8b9083ccbaf9d1e6',
+    messagingSenderId: '431747585555',
+    projectId: 'seeme-689a1',
+    databaseURL: 'https://seeme-689a1-default-rtdb.firebaseio.com',
+    storageBucket: 'seeme-689a1.appspot.com',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyB5TiyNkmOWhLPNF4UeWSPAl4aAo-1mF04',
-    appId: '1:948138452070:ios:3ba0d3b944ccb0e1d739a7',
-    messagingSenderId: '948138452070',
-    projectId: 'seeme-db',
-    databaseURL: 'https://seeme-db-default-rtdb.firebaseio.com',
-    storageBucket: 'seeme-db.appspot.com',
+    apiKey: 'AIzaSyAvVWoXKCgL9DbJ6sHbDCQ73h7mgfOB7sM',
+    appId: '1:431747585555:ios:072d8772277bf52cf9d1e6',
+    messagingSenderId: '431747585555',
+    projectId: 'seeme-689a1',
+    databaseURL: 'https://seeme-689a1-default-rtdb.firebaseio.com',
+    storageBucket: 'seeme-689a1.appspot.com',
+    iosClientId: '431747585555-ik4177580hktlt43fmsqmn6o7cbm3pq3.apps.googleusercontent.com',
     iosBundleId: 'com.example.seeme',
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyB5TiyNkmOWhLPNF4UeWSPAl4aAo-1mF04',
-    appId: '1:948138452070:ios:3ba0d3b944ccb0e1d739a7',
-    messagingSenderId: '948138452070',
-    projectId: 'seeme-db',
-    databaseURL: 'https://seeme-db-default-rtdb.firebaseio.com',
-    storageBucket: 'seeme-db.appspot.com',
+    apiKey: 'AIzaSyAvVWoXKCgL9DbJ6sHbDCQ73h7mgfOB7sM',
+    appId: '1:431747585555:ios:072d8772277bf52cf9d1e6',
+    messagingSenderId: '431747585555',
+    projectId: 'seeme-689a1',
+    databaseURL: 'https://seeme-689a1-default-rtdb.firebaseio.com',
+    storageBucket: 'seeme-689a1.appspot.com',
+    iosClientId: '431747585555-ik4177580hktlt43fmsqmn6o7cbm3pq3.apps.googleusercontent.com',
     iosBundleId: 'com.example.seeme',
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
-    apiKey: 'AIzaSyBYi2LJXoyymlgrSWycjFBvx3lHECmsX78',
-    appId: '1:948138452070:web:f02c9e0584a985e6d739a7',
-    messagingSenderId: '948138452070',
-    projectId: 'seeme-db',
-    authDomain: 'seeme-db.firebaseapp.com',
-    databaseURL: 'https://seeme-db-default-rtdb.firebaseio.com',
-    storageBucket: 'seeme-db.appspot.com',
-    measurementId: 'G-MJP96LXBFT',
+    apiKey: 'AIzaSyAxPd1SRCDZSi8I8vDl-t5CIrUOTVBvbVM',
+    appId: '1:431747585555:web:681342c46333cc42f9d1e6',
+    messagingSenderId: '431747585555',
+    projectId: 'seeme-689a1',
+    authDomain: 'seeme-689a1.firebaseapp.com',
+    databaseURL: 'https://seeme-689a1-default-rtdb.firebaseio.com',
+    storageBucket: 'seeme-689a1.appspot.com',
+    measurementId: 'G-TCVT5NM9PB',
   );
+
 }
