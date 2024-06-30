@@ -41,56 +41,57 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyAxPd1SRCDZSi8I8vDl-t5CIrUOTVBvbVM',
-    appId: '1:431747585555:web:e2213e6231feecf2f9d1e6',
-    messagingSenderId: '431747585555',
-    projectId: 'seeme-689a1',
-    authDomain: 'seeme-689a1.firebaseapp.com',
-    databaseURL: 'https://seeme-689a1-default-rtdb.firebaseio.com',
-    storageBucket: 'seeme-689a1.appspot.com',
-    measurementId: 'G-0DR1FT63VV',
+    apiKey: 'AIzaSyCTmUK_4di8HJuOpPJFBiJw8oRAValBuB0',
+    appId: '1:774194407653:web:f5f9682820102cd5d80c0c',
+    messagingSenderId: '774194407653',
+    projectId: 'seeme-test',
+    authDomain: 'seeme-test.firebaseapp.com',
+    databaseURL: 'https://seeme-test-default-rtdb.firebaseio.com',
+    storageBucket: 'seeme-test.appspot.com',
+    measurementId: 'G-13WEL9ZDCC',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyA2JsphEm0gTJAsQOFHDoe-S1XlC0UmQRg',
-    appId: '1:431747585555:android:00087a8b9083ccbaf9d1e6',
-    messagingSenderId: '431747585555',
-    projectId: 'seeme-689a1',
-    databaseURL: 'https://seeme-689a1-default-rtdb.firebaseio.com',
-    storageBucket: 'seeme-689a1.appspot.com',
+    apiKey: 'AIzaSyAlMAF88fryJjgNdleWtAoEsZphsCpDiRE',
+    appId: '1:774194407653:android:77c84426bdf90db0d80c0c',
+    messagingSenderId: '774194407653',
+    projectId: 'seeme-test',
+    databaseURL: 'https://seeme-test-default-rtdb.firebaseio.com',
+    storageBucket: 'seeme-test.appspot.com',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyAvVWoXKCgL9DbJ6sHbDCQ73h7mgfOB7sM',
-    appId: '1:431747585555:ios:072d8772277bf52cf9d1e6',
-    messagingSenderId: '431747585555',
-    projectId: 'seeme-689a1',
-    databaseURL: 'https://seeme-689a1-default-rtdb.firebaseio.com',
-    storageBucket: 'seeme-689a1.appspot.com',
-    iosClientId: '431747585555-ik4177580hktlt43fmsqmn6o7cbm3pq3.apps.googleusercontent.com',
-    iosBundleId: 'com.example.seeme',
+    apiKey: 'AIzaSyBkRFycLjHvnSf-Q16BlQXHckntzwNJcWE',
+    appId: '1:774194407653:ios:b354331cbf43155ad80c0c',
+    messagingSenderId: '774194407653',
+    projectId: 'seeme-test',
+    databaseURL: 'https://seeme-test-default-rtdb.firebaseio.com',
+    storageBucket: 'seeme-test.appspot.com',
+    iosClientId:
+        '774194407653-8vqidnpu6oh9s2oj5hdl39111i34nj7s.apps.googleusercontent.com',
+    iosBundleId: 'com.example.seemeTest',
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyAvVWoXKCgL9DbJ6sHbDCQ73h7mgfOB7sM',
-    appId: '1:431747585555:ios:072d8772277bf52cf9d1e6',
-    messagingSenderId: '431747585555',
-    projectId: 'seeme-689a1',
-    databaseURL: 'https://seeme-689a1-default-rtdb.firebaseio.com',
-    storageBucket: 'seeme-689a1.appspot.com',
-    iosClientId: '431747585555-ik4177580hktlt43fmsqmn6o7cbm3pq3.apps.googleusercontent.com',
-    iosBundleId: 'com.example.seeme',
+    apiKey: 'AIzaSyBkRFycLjHvnSf-Q16BlQXHckntzwNJcWE',
+    appId: '1:774194407653:ios:b354331cbf43155ad80c0c',
+    messagingSenderId: '774194407653',
+    projectId: 'seeme-test',
+    databaseURL: 'https://seeme-test-default-rtdb.firebaseio.com',
+    storageBucket: 'seeme-test.appspot.com',
+    iosClientId:
+        '774194407653-8vqidnpu6oh9s2oj5hdl39111i34nj7s.apps.googleusercontent.com',
+    iosBundleId: 'com.example.seemeTest',
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
-    apiKey: 'AIzaSyAxPd1SRCDZSi8I8vDl-t5CIrUOTVBvbVM',
-    appId: '1:431747585555:web:681342c46333cc42f9d1e6',
-    messagingSenderId: '431747585555',
-    projectId: 'seeme-689a1',
-    authDomain: 'seeme-689a1.firebaseapp.com',
-    databaseURL: 'https://seeme-689a1-default-rtdb.firebaseio.com',
-    storageBucket: 'seeme-689a1.appspot.com',
-    measurementId: 'G-TCVT5NM9PB',
+    apiKey: 'AIzaSyCTmUK_4di8HJuOpPJFBiJw8oRAValBuB0',
+    appId: '1:774194407653:web:286e53d8bc918543d80c0c',
+    messagingSenderId: '774194407653',
+    projectId: 'seeme-test',
+    authDomain: 'seeme-test.firebaseapp.com',
+    databaseURL: 'https://seeme-test-default-rtdb.firebaseio.com',
+    storageBucket: 'seeme-test.appspot.com',
+    measurementId: 'G-Q8GMN9VZKY',
   );
-
 }
